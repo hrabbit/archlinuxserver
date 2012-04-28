@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://hrabbit.github.com/archlinuxserver/atom.xml" rel="self"/>
+  <link href="http://hrabbit.github.com/archlinuxserver/"/>
+  <updated>2012-04-28T12:33:08+10:00</updated>
+  <id>http://hrabbit.github.com/archlinuxserver/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
