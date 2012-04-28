@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Arch Linux Server]]></title>
-  <link href="http://archlinuxserver.net/atom.xml" rel="self"/>
-  <link href="http://archlinuxserver.net/"/>
-  <updated>2012-04-28T23:23:58+10:00</updated>
-  <id>http://archlinuxserver.net/</id>
+  <link href="http://archlinuxserver.net//atom.xml" rel="self"/>
+  <link href="http://archlinuxserver.net//"/>
+  <updated>2012-04-28T23:25:12+10:00</updated>
+  <id>http://archlinuxserver.net//</id>
   <author>
     <name><![CDATA[The community]]></name>
     
